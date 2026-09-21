@@ -1,0 +1,8 @@
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.csproj.AssemblyReference.cache
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.HesperiaConverter.resources
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.Properties.Resources.resources
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.csproj.GenerateResource.cache
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.AssemblyInfoInputs.cache
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.AssemblyInfo.cs
+C:\Users\pabad\source\repos\Conversor\Conversor\obj\Release\net10.0-windows\Conversor.csproj.CoreCompileInputs.cache
